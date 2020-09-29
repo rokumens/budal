@@ -1,0 +1,19 @@
+/*!
+ * ActivePresenter HTML5 Output File
+ * Copyright (c) Atomi Systems, Inc. All rights reserved.
+ * https://atomisystems.com/activepresenter/
+ * Version: 7.5.4
+ * Date: 2019.01.24
+ */
+#kakYBhyl .ap-focused {
+	outline: 1px dashed black;
+	outline-offset: 1px;
+}
+#kakYBhyl p {
+	margin: 0;
+}
+#kakYBhyl ol,ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
